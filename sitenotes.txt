@@ -1,0 +1,6 @@
+Server Port: 127.0.0.1:63712
+Start:  Ichiraku-Contact-Sheet
+- box server start cfengine=adobe@2018
+End: box server stop --all
+
+serverTimezone=UTC&allowMultiQueries=true
